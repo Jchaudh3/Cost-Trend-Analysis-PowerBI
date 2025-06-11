@@ -33,7 +33,7 @@ This chart shows each cost type as a proportion of **income**, which highlights 
   - Claim Payouts (dark blue)
   - Regulatory Fees (orange)
 
-> ![Cost as % of Income](visuals/cost_as_%_of_income.png)
+> ![image alt](visuals/cost_as_%_of_income.png)
 
 **Insights**:
 - Claim Payouts and Administrative Costs spiked in 2019, likely due to sudden income disruption.
