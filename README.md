@@ -14,7 +14,7 @@ A line chart displays trends for each cost type over time as a proportion of **t
   - Claim Payouts (dark blue)
   - Regulatory Fees (orange)
 
-> ![Cost as % of Total Assets](visuals/cost_trend_chart.png)
+> ![Cost as % of Total Assets](visuals/cost_as_%_of_asset.png)
 
 **Insights**:
 - Regulatory Fees are highly volatile and peaked in 2022.
@@ -33,7 +33,7 @@ This chart shows each cost type as a proportion of **income**, which highlights 
   - Claim Payouts (dark blue)
   - Regulatory Fees (orange)
 
-> ![Cost as % of Income](visuals/cost_percent_income.png)
+> ![Cost as % of Income](visuals/cost_as_%_of_income.png)
 
 **Insights**:
 - Claim Payouts and Administrative Costs spiked in 2019, likely due to sudden income disruption.
