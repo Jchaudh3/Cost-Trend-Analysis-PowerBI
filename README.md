@@ -14,7 +14,7 @@ A line chart displays trends for each cost type over time as a proportion of **t
   - Claim Payouts (dark blue)
   - Regulatory Fees (orange)
 
-> ![Cost as % of Total Assets](visuals/cost_as_%_of_asset.png)
+> ![image alt](https://github.com/Jchaudh3/Cost-Trend-Analysis-PowerBI/blob/7f008e1e1e7eea7b0fd2f11fb61f7d8a36c3bb10/visuals/cost_as%20_%25_of_asset.png)
 
 **Insights**:
 - Regulatory Fees are highly volatile and peaked in 2022.
