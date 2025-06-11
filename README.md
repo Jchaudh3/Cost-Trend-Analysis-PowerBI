@@ -1,17 +1,43 @@
 # Cost-Trend-Analysis-PowerBI (2013-2023)
 This project presents a trend analysis of three cost categories—**Administrative Costs**, **Claim Payouts**, and **Regulatory Fees**—as a percentage of **Total Assets** over a 10-year period (2013–2023). The goal was to identify cost behavior and its financial impact over time.
 
-## Key Visualization
+## Key Visualizations
 
-A line chart displays trends for each cost type from 2013 to 2023:
+### 1. Cost as % of Total Assets (2013–2023)
+
+A line chart displays trends for each cost type over time as a proportion of **total assets**:
+
 - **X-axis**: Year
 - **Y-axis**: Cost as % of Total Assets
 - **Lines**:
-  - Administrative Costs *(light blue)*
-  - Claim Payouts *(dark blue)*
-  - Regulatory Fees *(orange)*
+  - Administrative Costs (light blue)
+  - Claim Payouts (dark blue)
+  - Regulatory Fees (orange)
 
-> 📌 *[Add chart image in `/visuals` and link here]*
+> ![Cost as % of Total Assets](visuals/cost_trend_chart.png)
+
+**Insights**:
+- Regulatory Fees are highly volatile and peaked in 2022.
+- Administrative and Claim Payouts are relatively stable over the years.
+
+---
+
+### 2. Cost as % of Income (2013–2023)
+
+This chart shows each cost type as a proportion of **income**, which highlights different behavior patterns:
+
+- **X-axis**: Year
+- **Y-axis**: Cost as % of Income
+- **Lines**:
+  - Administrative Costs (light blue)
+  - Claim Payouts (dark blue)
+  - Regulatory Fees (orange)
+
+> ![Cost as % of Income](visuals/cost_percent_income.png)
+
+**Insights**:
+- Claim Payouts and Administrative Costs spiked in 2019, likely due to sudden income disruption.
+- Regulatory Fees remained relatively stable but peaked in 2022.
 
 ---
 
